@@ -1,8 +1,10 @@
+
 <div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxxnxxa&layout=compact)](https://github.com/hxxnxxa/github-readme-stats)  
+  
+</div>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hxxnxxa)](https://github.com/anuraghazra/github-readme-stats)
-
-</align>
 
   
 
