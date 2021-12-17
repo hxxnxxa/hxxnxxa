@@ -56,6 +56,8 @@
   
   <li><a href="https://hxxnxxa.github.io">[HTML/CSS] My Own Homepage in English</a></li>
   <li><a href="https://hxxnxxa.github.io/ko">[HTML/CSS] My Own Homepage in Korean</a></li>
+  <li><a href="https://github.com/hxxnxxa/font_coordinate/">[Python/Deep Learning] Font Project</a></li>
+  <li><a href="https://github.com/hxxnxxa/python">[Python/Deep Learning] Deep Learning Self-study</a></li>
   <li><a href="https://github.com/hxxnxxa/font_coordinate/blob/main/font2img.py">[Python] Font Generation</a></li>
   <li><a href="https://github.com/hxxnxxa/androidVoca">[Android/Java] My Voca</a></li>
   <li><a href="https://github.com/hxxnxxa/shealthEx01">[Android/Java] Simple Health Care</a></li>
@@ -81,8 +83,8 @@ Here are some ideas to get you started:
 -->
 
 <!--
-    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
