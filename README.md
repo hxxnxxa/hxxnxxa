@@ -58,6 +58,7 @@
   <li><a href="https://hxxnxxa.github.io/ko">[HTML/CSS] My Own Homepage in Korean</a></li>
   <li><a href="https://github.com/hxxnxxa/font_coordinate/">[Python/Deep Learning] Font Project</a></li>
   <li><a href="https://github.com/hxxnxxa/python">[Python/Deep Learning] Deep Learning Self-study</a></li>
+  <li><a href="https://github.com/hxxnxxa/style_transfer">[Python/Deep Learning] Style Transfer(Toy Project)</a></li>
   <li><a href="https://github.com/hxxnxxa/font_coordinate/blob/main/font2img.py">[Python] Font Generation</a></li>
   <li><a href="https://github.com/hxxnxxa/androidVoca">[Android/Java] My Voca</a></li>
   <li><a href="https://github.com/hxxnxxa/shealthEx01">[Android/Java] Simple Health Care</a></li>
