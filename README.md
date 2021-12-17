@@ -7,6 +7,17 @@
 <br>
 
 <div>
+  <h3>👩🏻‍💻 Today Hits</h3>
+  <p align="center">
+    <a href="https://hits.seeyoufarm.com">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhxxnxxa%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    </a>
+  </p>
+</div>
+
+<br>
+
+<div>
   <h3>👩🏻‍💻 Tech Stack</h3>
   
   <p align="center">
@@ -25,9 +36,7 @@
 
 <div>
   <h3>👩🏻‍💻 Most Used Languages </h3>
-  
-  <br>
-  
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxxnxxa&layout=compact)](https://github.com/hxxnxxa/github-readme-stats)
 </div>
 
@@ -43,7 +52,7 @@
 <br>
 
 <div>
-  <h3>🚀 My Github contains </h3>
+  <h3>👩🏻‍💻 My Github contains </h3>
   
   <li><a href="https://hxxnxxa.github.io">[HTML/CSS] My Own Homepage in English</a></li>
   <li><a href="https://hxxnxxa.github.io/ko">[HTML/CSS] My Own Homepage in Korean</a></li>
@@ -60,12 +69,11 @@
 <br>
 
 <div>
-  <h3>👩🏻‍💻 Today Hits</h3>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhxxnxxa%2Fhit-counter&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  <h3>👩🏻‍💻 Tech Blog</h3>
+  <li><a href="https://berra-devlog.tistory.com/">My TISTORY</a></li>
 </div>
 
+<br>
 
 <!--
 **hxxnxxa/hxxnxxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
