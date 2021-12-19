@@ -65,10 +65,10 @@
   <li><a href="https://github.com/hxxnxxa/shealthEx01">[Android/Java] Simple Health Care</a></li>
   <li><a href="https://github.com/hxxnxxa/androidMovie">[Android/Java] Daily Box Office</a></li>
   <li><a href="https://github.com/hxxnxxa/nodejs/blob/main/test.js">[NodeJS] Email Sender</a></li>
-  <li><a href="https://github.com/hxxnxxa?tab=repositories">[C] Data Structure self-study</a></li>
+  <li><a href="https://github.com/hxxnxxa/html5Ex">[HTML] HTML Basic Grammer</a></li>
   <li><a href="https://github.com/hxxnxxa/sqlLecture">[SQL] SQL Basic Grammer</a></li>
   <li><a href="https://github.com/hxxnxxa/jsp">[JSP] JSP Basic Grammer</a></li>
-  <li><a href="https://github.com/hxxnxxa/html5Ex">[HTML] HTML Basic Grammer</a></li>
+  <li><a href="https://github.com/hxxnxxa?tab=repositories">[C] Data Structure self-study</a></li>
   
 </div>
 
