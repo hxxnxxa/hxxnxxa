@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> ❤️ HyunHwa Oh ❤️ </h1>
+  <h1> HyunHwa Oh </h1>
 </div>
 
 ✍️  I’m currently studying deep-learning, machine-learning in Soongsil Graduate School, System Software Lab(SSU SSLAB).
