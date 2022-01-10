@@ -69,7 +69,7 @@
   <li><a href="https://github.com/hxxnxxa/html5Ex">[HTML5] HTML, CSS, Javascript, jQuery, Ajax Basic Grammer</a></li>
   <li><a href="https://github.com/hxxnxxa/sqlLecture">[SQL] SQL Basic Grammer</a></li>
   <li><a href="https://github.com/hxxnxxa/jsp">[JSP] JSP Basic Grammer</a></li>
-  <li><a href="https://github.com/hxxnxxa?tab=repositories">[C] Data Structure self-study</a></li>
+  <li><a href="https://github.com/hxxnxxa?tab=repositories">[C] Data Structure Self-study</a></li>
   
 </div>
 
