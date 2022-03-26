@@ -76,8 +76,8 @@
 <br>
 
 <div>
-  <h3>👩🏻‍💻 Tech Blog</h3>
-  <li><a href="https://berra-devlog.tistory.com/">My TISTORY</a></li>
+  <h3>👩🏻‍💻 Linktree</h3>
+  <li><a href="https://linktr.ee/ohyunhwa/">My Linktree</a></li>
 </div>
 
 <br>
