@@ -74,12 +74,6 @@
 </div>
 
 <br>
-
-<div>
-  <h3>👩🏻‍💻 Linktree</h3>
-  <li><a href="https://linktr.ee/ohyunhwa/">My Linktree</a></li>
-</div>
-
 <br>
 
 <!--
