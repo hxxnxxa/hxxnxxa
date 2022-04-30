@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h3>👩🏻‍💻 Today Hits</h3>
+  <h3>Today Hits</h3>
   <p align="center">
     <a href="https://hits.seeyoufarm.com">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhxxnxxa%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
@@ -14,7 +14,7 @@
 <br>
 
 <div>
-  <h3>👩🏻‍💻 Tech Stack</h3>
+  <h3>Tech Stack</h3>
   
   <p align="center">
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
@@ -32,7 +32,7 @@
 <br>
 
 <div>
-  <h3>👩🏻‍💻 Most Used Languages </h3>
+  <h3>Most Used Languages </h3>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxxnxxa&layout=compact)](https://github.com/hxxnxxa/github-readme-stats)
 </div>
@@ -40,7 +40,7 @@
 <br>
 
 <div>
-  <h3>👩🏻‍💻 Github Stats</h3>
+  <h3>Github Stats</h3>
   
   [![HyunHwa's github stats](https://github-readme-stats.vercel.app/api?username=hxxnxxa)](https://github.com/anuraghazra/github-readme-stats)
   
