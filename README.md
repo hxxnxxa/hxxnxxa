@@ -2,10 +2,6 @@
   <h1> HyunHwa Oh </h1>
 </div>
 
-✍️  I’m currently studying deep-learning, machine-learning in System Software Lab, Soongsil Graduate School(SSLAB SSU).
-
-<br>
-
 <div>
   <h3>👩🏻‍💻 Today Hits</h3>
   <p align="center">
@@ -52,6 +48,7 @@
 
 <br>
 
+<!--
 <div>
   <h3>👩🏻‍💻 My Github contains </h3>
   
@@ -76,7 +73,7 @@
 <br>
 <br>
 
-<!--
+
 **hxxnxxa/hxxnxxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
